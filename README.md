@@ -1,1 +1,1 @@
-# atom
+Atomic structure by Hartree-Fock theory
